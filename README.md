@@ -3,13 +3,13 @@ A comprehensive collection of assignments, exams, and lecture slides from course
 
 ---
 ### important notes
-Naming convention of files in this repository is based on the following regex but keep in my mind that the 'course name' and the 'professor name' are optional as they are implicitly determined by folder and subfolder at which the file is located.
+Naming convention of files in this repository is based on the following regex but keep in my mind that the 'course name' and the 'professor name' and even types of file(HW, final, mid ...) are optional as they are implicitly determined by folder and subfolder at which the file is located, in this way not only the file names are short and readable but also downloading a single folder may provide you with exactly files you need.
 ###### regex:
 - ([course name]-)?([professor name]-)?((HWs|slides|project|lecture notes|final|midterm)-)(1396|1397|1398|1399|1400|1401|1402)(fall|spring)(-(answer))?
 ###### example:
-- subfolder: Database/Ghadiri
-- file name: final-1401-fall
-- answer file name: final-1401-fall-answer
+- subfolder: Database/Ghadiri/final
+- file name: 1401-fall
+- answer file name: 1401-fall-answer
 
 ---
 ### useful links and tools
