@@ -1,15 +1,15 @@
 # cessa-bank
-A comprehensive collection of assignments, exams, and lecture slides from courses at Isfahan University of Technology (IUT). This repository aims to provide students and educators with valuable academic resources for learning and teaching. Contributions are welcome to help expand and improve the repository!
+یک مجموعه جامع از تمرین‌ها، امتحانات و اسلایدهای درسی از دوره‌های دانشگاه صنعتی اصفهان (IUT). این مخزن با هدف ارائه منابع ارزشمند آموزشی برای دانشجویان و اساتید ایجاد شده است. از شما دعوت می‌شود با افزودن فایل‌ها و منابع جدید به گسترش و بهبود این مخزن کمک کنید!
 
 ---
 ### important notes
-Naming convention of files in this repository is based on the following regex but keep in my mind that the 'course name' and the 'professor name' and even types of file(HW, final, mid ...) are optional as they are implicitly determined by folder and subfolder at which the file is located, in this way not only the file names are short and readable but also downloading a single folder may provide you with exactly files you need.
+نام‌گذاری فایل‌ها در این مخزن بر اساس الگوی زیر (regex) انجام می‌شود. دقت کنید که «نام درس»، «نام استاد» و حتی نوع فایل (تمرین، امتحان نهایی، میان‌ترم و...) اختیاری است، زیرا این موارد به صورت ضمنی از محل پوشه و زیرپوشه مربوطه مشخص می‌شوند. این روش باعث می‌شود نام فایل‌ها کوتاه و خوانا باشند و همچنین دانلود یک پوشه خاص دقیقاً فایل‌های مورد نیاز شما را ارائه دهد.
 ###### regex:
-- ([course name]-)?([professor name]-)?((HWs|slides|project|lecture notes|final|midterm)-)(1396|1397|1398|1399|1400|1401|1402)(fall|spring)(-(answer))?
+```([course name]-)?([professor name]-)?((HWs|slides|project|lecture notes|final|midterm)-)(1396|1397|1398|1399|1400|1401|1402)(fall|spring)(-(answer))?```
 ###### example:
-- subfolder: Database/Ghadiri/final
-- file name: 1401-fall
-- answer file name: 1401-fall-answer
+- زیرپوشه: Database/Ghadiri/final
+- نام فایل: 1401-fall
+- نام فایل پاسخ: 1401-fall-answer
 
 ---
 ### useful links and tools
@@ -17,12 +17,26 @@ Naming convention of files in this repository is based on the following regex bu
 2. [download a folder in github](https://download-directory.github.io/)
 
 ---
-### very special thanks to ...
-This bank is inspired by a similar repository which is maintained by the students at Sharif University of Technology.
-
+### Commit Format Standard
+برای حفظ نظم و شفافیت، از فرمت‌های زیر برای پیام‌های کامیت استفاده کنید:
+1. Add: برای اضافه کردن فایل‌ها یا منابع جدید.
+   
+    `Example:`
+   add: final exam for Database course 1401-fall
+3. Edit:  برای ویرایش فایل‌ها یا توضیحات موجود.
+   
+    `Example:`
+   edit: updated lecture notes for Physics 1400-spring
+5. Style: برای بهبود فرمت، ساختار یا استایل بدون تغییر محتوا.
+   
+    `Example:`
+    style: improved folder organization for easier navigation
 ---
 ### contact
-If you have new files you can add them to this repository either by a new pull request or sending it via Telegram!
+اگر فایل‌های جدیدی دارید، می‌توانید آن‌ها را از طریق ارسال یک pull request یا ارسال در تلگرام به ما اضافه کنید.
+###### @CESSA_Contacts
 ###### @Lucimad
-If you have any suggestions feel free to contact us!
+
+---
+### contributers
 
