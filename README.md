@@ -15,7 +15,7 @@
 ### useful links and tools
 1. [Large File Storage](https://medium.com/junior-dev/how-to-use-git-lfs-large-file-storage-to-push-large-files-to-github-41c8db1e2d65)
 2. [download a folder in github](https://download-directory.github.io/)
-3. [LaTex Template for exams!](https://www.overleaf.com/read/hhczdpsxspsb#691a08)
+3. [LaTeX Template for exams!](https://www.overleaf.com/read/hhczdpsxspsb#691a08)
 
 ---
 ### Commit Format Standard
