@@ -1,9 +1,16 @@
 # cessa-bank
+
+<p align="justify">
 یک مجموعه جامع از تمرین‌ها، امتحانات و اسلایدهای درسی از دوره‌های دانشکده کامپیوتر دانشگاه صنعتی اصفهان (IUT). این مخزن با هدف ارائه منابع ارزشمند آموزشی برای دانشجویان و اساتید ایجاد شده است. از شما دعوت می‌شود با افزودن فایل‌ها و منابع جدید به گسترش و بهبود این مخزن کمک کنید!
+</p>
 
 ---
 ### important notes
+
+<p align="justify">
 نام‌گذاری فایل‌ها در این مخزن بر اساس الگوی زیر (regex) انجام می‌شود. دقت کنید که «نام درس»، «نام استاد» و حتی نوع فایل (تمرین، امتحان نهایی، میان‌ترم و...) اختیاری است، زیرا این موارد به صورت ضمنی از محل پوشه و زیرپوشه مربوطه مشخص می‌شوند. این روش باعث می‌شود نام فایل‌ها کوتاه و خوانا باشند و همچنین دانلود یک پوشه خاص دقیقاً فایل‌های مورد نیاز شما را ارائه دهد.
+</p>
+
 ###### regex:
 ```([course name]-)?([professor name]-)?((HWs|slides|project|lecture notes|final|midterm)-)(1396|1397|1398|1399|1400|1401|1402)(fall|spring)(-(answer))?```
 ###### example:
@@ -20,24 +27,27 @@
 ---
 ### Commit Format Standard
 برای حفظ نظم و شفافیت، از فرمت‌های زیر برای پیام‌های کامیت استفاده کنید:
-1. Add: برای اضافه کردن فایل‌ها یا منابع جدید.
+1. add: برای اضافه کردن فایل‌ها یا منابع جدید.
    
     `Example:`
    add: final exam for Database course 1401-fall
-3. Edit:  برای ویرایش فایل‌ها یا توضیحات موجود.
+3. edit:  برای ویرایش فایل‌ها یا توضیحات موجود.
    
     `Example:`
-   edit: updated lecture notes for Physics 1400-spring
-5. Style: برای بهبود فرمت، ساختار یا استایل بدون تغییر محتوا.
+   edit: update lecture notes for Physics 1400-spring
+5. style: برای بهبود فرمت، ساختار یا استایل بدون تغییر محتوا.
    
     `Example:`
-    style: improved folder organization for easier navigation
+    style: improve folder organization for easier navigation
 ---
 ### contact
 اگر فایل‌های جدیدی دارید، می‌توانید آن‌ها را از طریق ارسال یک pull request یا ارسال در تلگرام به ما اضافه کنید.
-###### @CESSA_Contacts
-###### @Lucimad
+###### [@CESSA_Contacts](https://t.me/CESSA_Contacts)
+###### [@Lucimad](https://t.me/Lucimad)
 
 ---
 ### contributers
 
+<a href="https://github.com/iut-cessa/cessa-bank/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=iut-cessa/cessa-bank" />
+</a>
