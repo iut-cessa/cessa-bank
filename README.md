@@ -12,7 +12,7 @@
 </p>
 
 ###### regex:
-```([course name]-)?([professor name]-)?((HWs|slides|project|lecture notes|final|midterm)-)(1396|1397|1398|1399|1400|1401|1402)(fall|spring)(-(answer))?```
+```([course name]/)?([professor name]/)?((HWs|slides|project|lecture notes|final|midterm)/)(1396|1397|1398|1399|1400|1401|1402)(fall|spring)(-(answer))?```
 ###### example:
 - زیرپوشه: Database/Ghadiri/final
 - نام فایل: 1401-fall
